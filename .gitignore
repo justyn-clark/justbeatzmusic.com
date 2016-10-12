@@ -1,1 +1,8 @@
-
+.idea/
+/images
+/fonts
+node_modules
+.DS_Store
+.tmp
+.sass-ca
+bower_components
